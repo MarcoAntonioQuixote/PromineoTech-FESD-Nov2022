@@ -11,3 +11,6 @@
         After we clone a repository, we can push our own commits up to the repository if we have Write Permission.
 
         Please send me your github email so I can invite you to have permission to push to this repository.
+
+        Make sure to have fun when you're using Git and GitHub!
+        
