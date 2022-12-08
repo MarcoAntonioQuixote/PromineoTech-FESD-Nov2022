@@ -1,3 +1,3 @@
-const students = ["Mark Anthony",]
+const students = ["Mark Anthony", "MauriceA"]
 
 console.log(students);
